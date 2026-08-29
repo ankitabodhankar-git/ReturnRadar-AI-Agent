@@ -1,0 +1,27 @@
+{
+  "shop_name": "Moolchand Store",
+  "shop_type": "Family Clothing Store",
+  "categories": [
+    "Women's Clothing",
+    "Sarees",
+    "Men's Clothing",
+    "Kids' Clothing"
+  ],
+  "return_policy": {
+    "return_window_days": 7,
+    "exchange_window_days": 14,
+    "bill_required": true,
+    "original_tags_required": true,
+    "item_condition": "unused and undamaged",
+    "refund_method": "original payment method"
+  },
+  "non_returnable_items": [
+    "innerwear",
+    "personalized items",
+    "items marked final sale"
+  ],
+  "exceptions": {
+    "defective_item": "The item can be reviewed by Moolchand Store even after the normal return period with proof of purchase."
+  },
+  "contact_message": "For cases not covered by this policy, please contact Moolchand Store."
+}
