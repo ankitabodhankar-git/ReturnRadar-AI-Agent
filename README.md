@@ -2,7 +2,7 @@
 
 ReturnRadar is a conversational AI application that answers customer questions about a store's return and exchange policy in natural language. Built with **Google ADK**, **Gemini**, and **Streamlit**, containerized with **Docker**, and deployed as a serverless service on **Google Cloud Run**.
 
-**Live App:** https://return-radar-26261379775.asia-south1.run.app
+**Live App:** [(https://return-radar-957182578820.asia-south1.run.app/)]
 
 ## 📸 Application Preview
 
