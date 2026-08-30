@@ -6,7 +6,7 @@ ReturnRadar is a conversational AI application that answers customer questions a
 
 ## 📸 Application Preview
 
-![ReturnRadar – Return & Exchange Assistant](images/returnradar-demo.jpeg)
+![ReturnRadar Demo](returnradar-demo.jpeg)
 
 
 ## Problem
